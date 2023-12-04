@@ -64,7 +64,7 @@ I am Alaa, a student with a passion for software development. Constantly explori
  <a href="https://discord.com/invite/5RmW6dZKpe6">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/-->
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:alaaderbasy7@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>

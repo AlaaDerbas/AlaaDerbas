@@ -19,7 +19,7 @@ I am Alaa, a student with a passion for software development. Constantly explori
   
 
 
- -  🔭 I’m currently working on something cool 😉
+ -  🔭 I’m currently working on something cool 
 
 - 👯 I’m looking forward to collaborate on python projects.
 

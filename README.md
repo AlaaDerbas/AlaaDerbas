@@ -161,8 +161,6 @@ I am Alaa, a student with a passion for software development. Constantly explori
 
 
 
-### ☁️ Cloud
-
 <!--p align="left"> 
   <a href="https://aws.amazon.com/" target="_blank"> 
    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">

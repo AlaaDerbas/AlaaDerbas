@@ -21,7 +21,7 @@ I am Alaa, a student with a passion for software development. Constantly explori
 
  -  🔭 I’m currently working on something cool 
 
-- 👯 I’m looking forward to collaborate on python projects.
+- 👯 I’m looking forward to collaborate on flutter projects.
 
 - 🌱 Learning about Computer Vision and Machine Learning stuff
 

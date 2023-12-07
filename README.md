@@ -29,6 +29,9 @@ I am Alaa, a student with a passion for software development. Constantly explori
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
 
+- ⚽ should be Madridista 🤣
+
+
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
